@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wanwan-money-accounting-website/static/css/main.27a8e11f.chunk.css",
+    "main.js": "/wanwan-money-accounting-website/static/js/main.55de8c3e.chunk.js",
+    "main.js.map": "/wanwan-money-accounting-website/static/js/main.55de8c3e.chunk.js.map",
+    "runtime-main.js": "/wanwan-money-accounting-website/static/js/runtime-main.69046cd6.js",
+    "runtime-main.js.map": "/wanwan-money-accounting-website/static/js/runtime-main.69046cd6.js.map",
+    "static/js/2.fddb1c9a.chunk.js": "/wanwan-money-accounting-website/static/js/2.fddb1c9a.chunk.js",
+    "static/js/2.fddb1c9a.chunk.js.map": "/wanwan-money-accounting-website/static/js/2.fddb1c9a.chunk.js.map",
+    "index.html": "/wanwan-money-accounting-website/index.html",
+    "static/css/main.27a8e11f.chunk.css.map": "/wanwan-money-accounting-website/static/css/main.27a8e11f.chunk.css.map",
+    "static/js/2.fddb1c9a.chunk.js.LICENSE.txt": "/wanwan-money-accounting-website/static/js/2.fddb1c9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69046cd6.js",
+    "static/js/2.fddb1c9a.chunk.js",
+    "static/css/main.27a8e11f.chunk.css",
+    "static/js/main.55de8c3e.chunk.js"
+  ]
+}
